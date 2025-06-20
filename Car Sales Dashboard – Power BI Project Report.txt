@@ -1,0 +1,121 @@
+Car Sales Dashboard – Power BI Project Report
+1. Project Background
+Our company is a car dealership that offers a variety of car models to customers across different regions. To monitor and improve our sales performance, we identified the need for a centralized, data-driven dashboard. This project aims to develop a comprehensive Power BI dashboard that visualizes our car sales and tracks critical key performance indicators (KPIs).
+
+This report documents the structure, KPIs, visualizations, and insights gained from the development and analysis of the Car Sales Dashboard.
+
+Note: This project was replicated as part of a learning exercise based on a Power BI tutorial created by Data Tutorials on YouTube. The structure and techniques used in the dashboard were inspired by this tutorial to strengthen practical Power BI and DAX skills.
+
+2. Objective
+The primary goal of this project is to:
+
+Develop a dynamic and interactive Power BI dashboard for car sales analysis.
+
+Enable decision-makers to track sales performance in real-time.
+
+Use KPIs to identify trends, growth opportunities, and performance gaps.
+
+Enhance the ability to make data-driven business decisions.
+
+3. Data Overview
+The dataset used includes:
+
+Car model, body style, color
+
+Sale date, dealer region, and sales company
+
+Sales amount and quantity
+
+Time-based breakdown (weekly, monthly, yearly)
+
+4. KPIs Implemented
+The dashboard includes the following key performance indicators:
+
+4.1 Sales Overview
+Year-to-Date (YTD) Total Sales
+
+Month-to-Date (MTD) Total Sales
+
+Year-over-Year (YOY) Growth
+
+Difference between YTD and Previous Year-to-Date (PTYD) Sales
+
+4.2 Average Price Analysis
+YTD Average Price
+
+MTD Average Price
+
+YOY Growth in Average Price
+
+Difference between YTD and PTYD Average Price
+
+4.3 Cars Sold Metrics
+YTD Cars Sold
+
+MTD Cars Sold
+
+YOY Growth in Cars Sold
+
+Difference between YTD and PTYD Cars Sold
+
+5. Visualizations & Dashboard Features
+The Power BI dashboard consists of multiple pages, including:
+
+5.1 Dashboard Overview
+Line Chart showing YTD weekly sales trend
+
+Pie Charts representing YTD sales by body style and color
+
+Cards/Indicators displaying total sales, cars sold, and average price
+
+5.2 Regional Analysis
+Map Chart to visualize YTD cars sold by dealer region
+
+Identification of high- and low-performing locations
+
+5.3 Company-Wise Analysis
+Grid Table comparing YTD sales for each company
+
+5.4 Detailed Data Table
+A full sales dataset including model, body style, color, region, sale amount, and date
+
+Enables sorting, searching, and export
+
+6. Tools & Technologies Used
+Power BI Desktop
+
+Power Query for data cleaning and transformation
+
+DAX (Data Analysis Expressions) for calculated columns and measures
+
+Microsoft Excel / CSV as the data source
+
+7. Key Insights Gained
+Certain body styles and car colors significantly influence total sales.
+
+Dealer regions show varied performance, with some regions requiring targeted attention.
+
+YOY growth in both sales amount and average price indicates a positive upward trend.
+
+Company-specific breakdowns highlight sales dominance and performance gaps.
+
+8. Learning Outcomes
+This project improved my ability to:
+
+Build business dashboards using Power BI
+
+Write and apply advanced DAX expressions for time-based calculations
+
+Use visuals effectively for KPI storytelling
+
+Transform raw data into actionable insights
+
+9. Acknowledgment
+This dashboard project was built by following a YouTube tutorial created by Data Tutorials for learning purposes. All visuals, DAX formulas, and layout concepts were replicated and adapted for educational growth.
+Original tutorial source: Data Tutorials on YouTube
+
+
+10. Conclusion
+This Power BI dashboard provides a centralized, insightful, and actionable view of car sales performance. It supports better decision-making by offering real-time visibility into sales trends and metrics. The hands-on experience replicating this project strengthened my understanding of Power BI’s capabilities in a business context.
+
+
